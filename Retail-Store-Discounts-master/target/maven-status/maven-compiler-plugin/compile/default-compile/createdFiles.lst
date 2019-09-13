@@ -1,0 +1,11 @@
+com\shopping\discount\item\PricingPolicy.class
+com\shopping\core\Cart.class
+com\shopping\core\User.class
+com\shopping\discount\ThresholdDiscount.class
+com\shopping\enums\UserType.class
+com\shopping\discount\item\PromotionPricing.class
+com\shopping\Main.class
+com\shopping\discount\DiscountPolicy.class
+com\shopping\enums\ItemType.class
+com\shopping\core\Product.class
+com\shopping\core\Item.class
